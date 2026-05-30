@@ -40,12 +40,11 @@ In each game, you can only choose **2 items**. Choose wisely! 😅
 
 | Main Menu | Item Selection |
 |:---:|:---:|
-| ![Main Menu](1.png) | ![Item Selection](2.png) |
+| ![Main Menu](game%20environment/1.png) | ![Item Selection](game%20environment/2.png) |
 
 | Main Game View 1 | Main Game View 2 |
 |:---:|:---:|
-| ![Main Game 1](3.png) | ![Main Game 2](4.png) |
-
+| ![Main Game 1](game%20environment/3.png) | ![Main Game 2](game%20environment/4.png) |
 ## Download & Run
 
 To play the game, download and run `Hamitory.exe`, or run `game.py` using Python with Pygame installed.
