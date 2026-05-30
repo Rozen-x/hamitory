@@ -36,9 +36,15 @@ In each game, you can only choose **2 items**. Choose wisely! 😅
 
 > Although these medals have no physical or digital impact on your life, you deserve the best! 😊
 
-## Screenshots
+## 📸 Game Screenshots
 
-(Screenshots of the game will be placed here)
+| Main Menu | Item Selection |
+|:---:|:---:|
+| ![Main Menu](1.png) | ![Item Selection](2.png) |
+
+| Main Game View 1 | Main Game View 2 |
+|:---:|:---:|
+| ![Main Game 1](3.png) | ![Main Game 2](4.png) |
 
 ## Download & Run
 
