@@ -160,11 +160,6 @@ class Grid:
     def get_cell(self,posX,posY):
         for cell in self.cell_group.sprites():
             if cell.matris_pos == (posX,posY):
-                return cell
-                
-                
-
-        
-                                                                                       
+                return cell                                                                             
         
 
